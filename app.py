@@ -1,1 +1,1 @@
-print("Hello from my AI app running in Docker!")
+print("Hello from my AI app v2 - CI/CD is working")
